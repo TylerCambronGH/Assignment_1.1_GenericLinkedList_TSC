@@ -1,4 +1,8 @@
 
+/**
+ * @author tylercambron
+ * Application testing linked nodes and linked lists with different generic values.
+ */
 public class Application {
 	public static void main(String[] args) {
 		LinkedNode<String> headNode = new LinkedNode<String>("String List");
